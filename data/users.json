@@ -1,3 +1,15 @@
-{
-  "users": []
-}
+[
+  {
+    "id": 1,
+    "name": "Alex Smith",
+    "email": "a@a.com",
+    "phone": "1234567890",
+    "age": 30,
+    "marriedStatus": true,
+    "address": "123 Main St",
+    "city": "New York",
+    "state": "NY",
+    "zip": "10001",
+    "profileImage": "https://cdn.pixabay.com/photo/2018/08/28/13/29/avatar-3637561_960_720.png"
+  }
+]

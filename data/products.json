@@ -1,3 +1,9 @@
-{
-  "products": []
-}
+[
+  {
+    "id": 1,
+    "title": "The Shawshank Redemption",
+    "price": 2000,
+    "tag": "new",
+    "gender": "male"
+  }
+]
