@@ -1,5 +1,6 @@
 [
   {
+    "id": 1,
     "name": "Alex Smith",
     "age": "23",
     "dateOfBirth": "12/12/1992",
@@ -8,6 +9,7 @@
     "pinCode": "560037"
   },
   {
+    "id": 2,
     "name": "Elenor",
     "age": "20",
     "dateOfBirth": "12/12/2002",
